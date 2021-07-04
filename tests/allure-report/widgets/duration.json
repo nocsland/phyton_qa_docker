@@ -1,0 +1,101 @@
+[ {
+  "uid" : "f0d8274c2f3f25df",
+  "name" : "Удаление продукта",
+  "time" : {
+    "start" : 1623907585240,
+    "stop" : 1623907589406,
+    "duration" : 4166
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "92a5c9cd3e01d0ad",
+  "name" : "Поиск элементов на главной странице",
+  "time" : {
+    "start" : 1623907591381,
+    "stop" : 1623907593389,
+    "duration" : 2008
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "a764f3fd129f98b8",
+  "name" : "Добавление нового пользователя",
+  "time" : {
+    "start" : 1623907589831,
+    "stop" : 1623907594844,
+    "duration" : 5013
+  },
+  "status" : "broken",
+  "severity" : "critical"
+}, {
+  "uid" : "c7b9bf711d24aa28",
+  "name" : "Поиск элементов на странице каталога",
+  "time" : {
+    "start" : 1623907586415,
+    "stop" : 1623907588226,
+    "duration" : 1811
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "80b958f3906820f7",
+  "name" : "Поиск элементов на странице карточки товара",
+  "time" : {
+    "start" : 1623907596407,
+    "stop" : 1623907598225,
+    "duration" : 1818
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "69c95f2a3fb92bfd",
+  "name" : "Добавление продукта",
+  "time" : {
+    "start" : 1623907586455,
+    "stop" : 1623907592651,
+    "duration" : 6196
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "ad625f9db6896295",
+  "name" : "Проверка title главной страницы",
+  "time" : {
+    "start" : 1623907594243,
+    "stop" : 1623907595168,
+    "duration" : 925
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "db3c630feda016eb",
+  "name" : "Переключение валюты",
+  "time" : {
+    "start" : 1623907590988,
+    "stop" : 1623907594775,
+    "duration" : 3787
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4d5edb9e8f143c50",
+  "name" : "Поиск элементов на странице логина",
+  "time" : {
+    "start" : 1623907588046,
+    "stop" : 1623907589316,
+    "duration" : 1270
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "19774c4298c6194f",
+  "name" : "Поиск элементов на странице админки",
+  "time" : {
+    "start" : 1623907585296,
+    "stop" : 1623907586165,
+    "duration" : 869
+  },
+  "status" : "passed",
+  "severity" : "trivial"
+} ]

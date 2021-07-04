@@ -1,0 +1,16 @@
+[ {
+  "values" : [ "ubuntu" ],
+  "name" : "OS"
+}, {
+  "values" : [ "/bin/bash" ],
+  "name" : "Shell"
+}, {
+  "values" : [ "None" ],
+  "name" : "Terminal"
+}, {
+  "values" : [ "chrome" ],
+  "name" : "Browser"
+}, {
+  "values" : [ "Production" ],
+  "name" : "Stand"
+} ]

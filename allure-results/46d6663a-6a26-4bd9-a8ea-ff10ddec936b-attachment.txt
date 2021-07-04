@@ -1,0 +1,8 @@
+INFO     browseLogger:conftest.py:39 ===> Test test_find_el_on_admin_page started
+INFO     AdminPage:BasePage.py:18 browser was opened
+INFO     AdminPage:AdminPage.py:9 element was found
+INFO     AdminPage:AdminPage.py:14 element was found
+INFO     AdminPage:AdminPage.py:19 element was found
+INFO     AdminPage:AdminPage.py:24 element was found
+INFO     AdminPage:AdminPage.py:29 element was found
+INFO     browseLogger:conftest.py:62 ===> Test test_find_el_on_admin_page finished

@@ -33,7 +33,7 @@ MANIFEST
 *.manifest
 *.spec
 
-# Installer logs
+# Installer attachments
 pip-log.txt
 pip-delete-this-directory.txt
 
@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/tests/.screenshots/
+/tests/.allure-report/
+/tests/.allure-results/
+.allure-report/
+.allure-results/
+.screenshots/
+.idea/
+
+

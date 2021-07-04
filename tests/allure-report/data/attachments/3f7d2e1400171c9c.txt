@@ -1,0 +1,8 @@
+INFO     browseLogger:conftest.py:39 ===> Test test_login_page started
+INFO     LoginPage:BasePage.py:18 browser was opened
+INFO     LoginPage:LoginPage.py:9 input_email was found
+INFO     LoginPage:LoginPage.py:14 continue button was found
+INFO     LoginPage:LoginPage.py:19 input-password was found
+INFO     LoginPage:LoginPage.py:24 Forgotten Password was found
+INFO     LoginPage:LoginPage.py:29 login button was found
+INFO     browseLogger:conftest.py:62 ===> Test test_login_page finished

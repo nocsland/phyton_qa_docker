@@ -1,0 +1,4 @@
+INFO     browseLogger:conftest.py:39 ===> Test test_is_title started
+INFO     MainPage:BasePage.py:18 browser was opened
+INFO     MainPage:BasePage.py:25 title was verified
+INFO     browseLogger:conftest.py:100 ===> Test test_is_title finished

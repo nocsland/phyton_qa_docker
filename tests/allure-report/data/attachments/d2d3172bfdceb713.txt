@@ -1,0 +1,12 @@
+INFO     browseLogger:conftest.py:39 ===> Test test_switch_currency started
+INFO     MainPage:BasePage.py:18 browser was opened
+INFO     MainPage:BasePage.py:42 switch currency menu was called
+INFO     MainPage:BasePage.py:37 element is visible
+INFO     MainPage:BasePage.py:47 currency was switched
+INFO     MainPage:BasePage.py:42 switch currency menu was called
+INFO     MainPage:BasePage.py:37 element is visible
+INFO     MainPage:BasePage.py:47 currency was switched
+INFO     MainPage:BasePage.py:42 switch currency menu was called
+INFO     MainPage:BasePage.py:37 element is visible
+INFO     MainPage:BasePage.py:47 currency was switched
+INFO     browseLogger:conftest.py:62 ===> Test test_switch_currency finished

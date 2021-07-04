@@ -1,0 +1,8 @@
+INFO     browseLogger:conftest.py:39 ===> Test test_add_new_user started
+INFO     MainPage:BasePage.py:18 browser was opened
+INFO     MainPage:MainPage.py:29 dropdown menu was clicked
+INFO     MainPage:MainPage.py:31 Register was clicked
+INFO     MainPage:MainPage.py:47 all fields register form was filled
+ERROR    root:conftest.py:109 I got: Message: no such element: Unable to locate element: {"method":"link text","selector":"Continue"}
+  (Session info: chrome=91.0.4472.101)
+INFO     browseLogger:conftest.py:62 ===> Test test_add_new_user finished

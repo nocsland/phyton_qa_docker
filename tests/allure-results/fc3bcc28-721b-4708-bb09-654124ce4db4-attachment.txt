@@ -1,0 +1,13 @@
+INFO     browseLogger:conftest.py:39 ===> Test test_add_product started
+INFO     AdminPage:BasePage.py:18 browser was opened
+INFO     AdminPage:AdminPage.py:38 login completed
+INFO     AdminPage:BasePage.py:25 title was verified
+INFO     AdminPage:AdminPage.py:44 navigated to the product page
+INFO     AdminPage:BasePage.py:25 title was verified
+INFO     AdminPage:AdminPage.py:49 clicked add
+INFO     AdminPage:AdminPage.py:55 the name and title fields are filled
+INFO     AdminPage:AdminPage.py:60 navigated to the data tab
+INFO     AdminPage:AdminPage.py:65 the model field is filled
+INFO     AdminPage:AdminPage.py:70 product was saved
+INFO     AdminPage:BasePage.py:37 element is visible
+INFO     browseLogger:conftest.py:62 ===> Test test_add_product finished

@@ -1,0 +1,159 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "Проверка тестового магазина opencart",
+    "children" : [ {
+      "name" : "Тесты страницы админки",
+      "children" : [ {
+        "name" : "Удаление продукта",
+        "uid" : "f0d8274c2f3f25df",
+        "parentUid" : "0432e33924e4a8c19f85de0221bfbcb9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623907585240,
+          "stop" : 1623907589406,
+          "duration" : 4166
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Поиск элементов на странице админки",
+        "uid" : "19774c4298c6194f",
+        "parentUid" : "0432e33924e4a8c19f85de0221bfbcb9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623907585296,
+          "stop" : 1623907586165,
+          "duration" : 869
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Добавление продукта",
+        "uid" : "69c95f2a3fb92bfd",
+        "parentUid" : "0432e33924e4a8c19f85de0221bfbcb9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623907586455,
+          "stop" : 1623907592651,
+          "duration" : 6196
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0432e33924e4a8c19f85de0221bfbcb9"
+    }, {
+      "name" : "Тесты страницы каталога",
+      "children" : [ {
+        "name" : "Поиск элементов на странице каталога",
+        "uid" : "c7b9bf711d24aa28",
+        "parentUid" : "c9eb28d55efb6da30c7bd9d3b7aa2344",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623907586415,
+          "stop" : 1623907588226,
+          "duration" : 1811
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c9eb28d55efb6da30c7bd9d3b7aa2344"
+    }, {
+      "name" : "Тесты страницы авторизации",
+      "children" : [ {
+        "name" : "Поиск элементов на странице логина",
+        "uid" : "4d5edb9e8f143c50",
+        "parentUid" : "5a2b6260b115148b5118356bf5a1363d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623907588046,
+          "stop" : 1623907589316,
+          "duration" : 1270
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5a2b6260b115148b5118356bf5a1363d"
+    }, {
+      "name" : "Тесты главной страницы",
+      "children" : [ {
+        "name" : "Добавление нового пользователя",
+        "uid" : "a764f3fd129f98b8",
+        "parentUid" : "1c3c0205b69b85194f99c9f6bf2592aa",
+        "status" : "broken",
+        "time" : {
+          "start" : 1623907589831,
+          "stop" : 1623907594844,
+          "duration" : 5013
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Переключение валюты",
+        "uid" : "db3c630feda016eb",
+        "parentUid" : "1c3c0205b69b85194f99c9f6bf2592aa",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623907590988,
+          "stop" : 1623907594775,
+          "duration" : 3787
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Поиск элементов на главной странице",
+        "uid" : "92a5c9cd3e01d0ad",
+        "parentUid" : "1c3c0205b69b85194f99c9f6bf2592aa",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623907591381,
+          "stop" : 1623907593389,
+          "duration" : 2008
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Проверка title главной страницы",
+        "uid" : "ad625f9db6896295",
+        "parentUid" : "1c3c0205b69b85194f99c9f6bf2592aa",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623907594243,
+          "stop" : 1623907595168,
+          "duration" : 925
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1c3c0205b69b85194f99c9f6bf2592aa"
+    }, {
+      "name" : "Тесты страницы карточки товара",
+      "children" : [ {
+        "name" : "Поиск элементов на странице карточки товара",
+        "uid" : "80b958f3906820f7",
+        "parentUid" : "a9b556500e7828c2125abc475815da89",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623907596407,
+          "stop" : 1623907598225,
+          "duration" : 1818
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a9b556500e7828c2125abc475815da89"
+    } ],
+    "uid" : "e1526af1b35ab7cefb9cee38ec1792cc"
+  } ],
+  "name" : "suites"
+}

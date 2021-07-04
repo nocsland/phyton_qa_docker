@@ -1,0 +1,8 @@
+INFO     browseLogger:conftest.py:39 ===> Test test_find_el_main started
+INFO     MainPage:BasePage.py:18 browser was opened
+INFO     MainPage:MainPage.py:8 element was found
+INFO     MainPage:MainPage.py:12 element was found
+INFO     MainPage:MainPage.py:16 element was found
+INFO     MainPage:MainPage.py:20 element was found
+INFO     MainPage:MainPage.py:24 element was found
+INFO     browseLogger:conftest.py:100 ===> Test test_find_el_main finished

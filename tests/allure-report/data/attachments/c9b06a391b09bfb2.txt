@@ -1,0 +1,8 @@
+INFO     browseLogger:conftest.py:39 ===> Test tests_find_el_catalog started
+INFO     CatalogPage:BasePage.py:18 browser was opened
+INFO     CatalogPage:CatalogPage.py:9 top div was found
+INFO     CatalogPage:CatalogPage.py:14 left column was found
+INFO     CatalogPage:CatalogPage.py:19 Product Compare was found
+INFO     CatalogPage:CatalogPage.py:24 class input-group was found
+INFO     CatalogPage:CatalogPage.py:29 search button was found
+INFO     browseLogger:conftest.py:100 ===> Test tests_find_el_catalog finished
