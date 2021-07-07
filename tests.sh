@@ -2,12 +2,13 @@
 
 docker build -t t_image .
 
-docker run --name t_container t_image pytest --browser chrome -n 4
+docker run --name t_container t_image # pytest --browser chrome -n 3
 
-docker cp t_container:/app/allure-report .
+docker cp t_container:/app/allure-results .
 
-allure serve allure-report
+allure serve allure-results
 
 docker rm t_container
 
-# docker run --name t_launch t_image && docker cp t_launch:/app/allure-report . && allure serve allure-report
+# docker run --name t_container t_image && docker cp t_container:/app/allure-results . && allure serve allure-results
+# docker run --name t_container t_image; docker cp t_container:/app/allure-results .; allure serve allure-results

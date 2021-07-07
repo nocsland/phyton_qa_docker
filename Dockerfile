@@ -9,7 +9,7 @@ WORKDIR /app
 # Копирую файл с зависимостями
 COPY requirements.txt .
 
-# Устанавливаю менеджер пакетов и необходимые библиотеки
+# Устанавливаю менеджер пакетов и зависимости
 RUN pip install -U pip
 RUN pip install -r requirements.txt
 

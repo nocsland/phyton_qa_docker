@@ -40,7 +40,7 @@ def test_find_el_main(browser):
 @allure.severity(allure.severity_level.CRITICAL)
 def test_add_new_user(browser):
     main_page = MainPage(browser).open()
-    allure.attach.file(source='attachments/add_user.png', attachment_type=allure.attachment_type.PNG)
+    allure.attach.file(source='tests/attachments/add_user.png', attachment_type=allure.attachment_type.PNG)
     main_page.click_add_user()
     main_page.fill_register_form('Ivan15', 'Ivanov15', 'test15@ya.ru', '+79000551135', 'test')
     main_page.click_agree_and_continue()
